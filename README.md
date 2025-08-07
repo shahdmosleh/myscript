@@ -1,4 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="website icon" type="png" href="https://t4.ftcdn.net/jpg/04/53/70/41/360_F_453704176_fRLaZTHGmRZmM6BpZZe2PT17DBsjb4md.jpg">
 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Statement Analysis Excel</title>
+    <link rel="stylesheet" href="css.css">
+    <link rel="stylesheet" href="css_introdaction.css">
+
+</head>
 <body style="background-color: #D9EAFD">
 
   <button class="top-left-button" onclick="window.location.href='http://localhost:4200/home'">
